@@ -1,0 +1,1 @@
+despliega una Verticle escuchando un evento periodico y en el puerto 8080 si recibe 10 request se detiene
